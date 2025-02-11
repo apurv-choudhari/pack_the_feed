@@ -45,5 +45,5 @@ Looking ahead, we aim to enhance our platform by integrating advanced technologi
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/Varad22/hackNCState
-cd hackNCState
+git clone https://github.com/apurv-choudhari/pack_the_feed
+cd pack_the_feed
